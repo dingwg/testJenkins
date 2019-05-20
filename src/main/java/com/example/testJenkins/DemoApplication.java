@@ -1,4 +1,4 @@
-package com.example.cxzt;
+package com.example.testJenkins;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.cxzt;
+package com.example.testJenkins;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
